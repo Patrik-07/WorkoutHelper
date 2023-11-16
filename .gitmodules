@@ -1,0 +1,6 @@
+[submodule "WorkoutHelper-Frontend"]
+	path = WorkoutHelper-Frontend
+	url = https://github.com/Patrik-07/WorkoutHelper-Frontend.git
+[submodule "WorkoutHelper-Backend"]
+	path = WorkoutHelper-Backend
+	url = https://github.com/Patrik-07/WorkoutHelper-Backend.git
